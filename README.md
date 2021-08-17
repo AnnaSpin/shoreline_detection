@@ -50,7 +50,7 @@ Inputs in the configs/sample_config.json:
 
 # (iv) Outputs
 
-Outputs are saved in a "outputs" folder. The folder "outputs" will contain a tiff file. The folder "outputs" will contain 2 subfolders:
+Outputs are saved in a "outputs" folder. The folder "outputs" will contain 2 subfolders:
 
 (a) image
 
