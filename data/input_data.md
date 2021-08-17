@@ -1,0 +1,1 @@
+In this folder, load your input tif files. Note: as the files.tif are > 25MB, we couldn't upload them in this github repository.
